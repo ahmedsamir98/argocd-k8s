@@ -9,3 +9,6 @@ docs/: Additional documentation and best practices.
 
 To understand the deployment process and how this repository is structured for large-scale environments, please read the detailed explanation on Medium:
 https://medium.com/@aahmedsamir98/managing-large-complex-environments-with-argocd-managing-multi-environment-configurations-with-545d89b7730e.
+
+
+Happy deploying with ArgoCD! 🚀
