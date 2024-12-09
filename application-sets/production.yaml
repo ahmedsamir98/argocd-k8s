@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: ApplicationSet
 metadata:
   name: production-appset
-  namespace: production
+  namespace: default
 spec:
   goTemplate: true
   goTemplateOptions: ["missingkey=error"]
